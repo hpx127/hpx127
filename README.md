@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on javascript,Angular,Node-JS
-- 🌱 I’m currently learning react-JS
+- 🌱 I’m currently learning electron js
 - 📫 How to reach me: Instagram - @hrshit_ptel
 
 <h3 align="left">Languages and Tools:</h3>
